@@ -1,0 +1,21 @@
+.likeCounter{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.upvote{
+    margin-left: 10px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: rgb(102, 102, 102);
+    border-radius: 15%;
+}
+
+.downvote{
+    margin-right: 10px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: rgb(102, 102, 102);
+    border-radius: 15%; 
+}
